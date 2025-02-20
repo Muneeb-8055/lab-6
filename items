@@ -1,0 +1,17 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        // Print the title
+        Console.WriteLine("Here are 5 grocery items:\n");
+        
+        // Print each item individually
+        Console.WriteLine("Grocery item #1: Milk");
+        Console.WriteLine("Grocery item #2: Bread");
+        Console.WriteLine("Grocery item #3: Eggs");
+        Console.WriteLine("Grocery item #4: Bananas");
+        Console.WriteLine("Grocery item #5: Oranges");
+    }
+}
