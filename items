@@ -6,7 +6,11 @@ class Program
     {
         // Print the title
         Console.WriteLine("Here are 5 grocery items:\n");
+
+        Console.WriteLine("Grocery item #1: Mango");
+
         Console.WriteLine("Grocery item : Ketchup");
+main
         // Print each item individually
         Console.WriteLine("Grocery item #1: Milk");
         Console.WriteLine("Grocery item #2: Bread");
